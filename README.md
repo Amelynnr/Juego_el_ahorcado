@@ -3,7 +3,7 @@ Mi version del juego "El Ahorcado". Reto Platzi
 
 Descripción del Proyecto:
 
-Este reto consiste en desarrollar el juego "El ahorcado", en el cual adivinamos las letras de una palabra incognita de un largo dado. A medida que vamos adivinando las letras la palabra va completandose hasta que es revelada.
+Este proyecto corresponde al desafió de la clase final del curso de Platzi: "Clases del curso de Python: Comprehensions, lambdas y manejo de errores". El reto consiste en desarrollar el juego "El ahorcado", en el cual adivinamos las letras de una palabra incognita de un largo dado. A medida que vamos adivinando las letras la palabra va completandose hasta que es revelada.
 
 Comportamiento:
 
@@ -15,7 +15,7 @@ Comportamiento:
 Reglas:
 
 Las reglas son propuestas con el fin de practicar los aprendizajes obtenidos durante el curso.
-- Incorpora comprehensions, manejo de errores y manejo de archivos
+- Incorpora comprehensions, manejo de errores y manejo de archivos.
 - Utilizar el archivo data.txt y leerlo para obtener palabras.
 
 Mejora del juego:
@@ -27,4 +27,6 @@ Las mejoras del juego son propuestas para optimizar la versión del juego del cu
 
 Metas personales:
 
+- Uso de Git y Github.
+- Uso de claves SSH.
 - Añadir vidas/intentos al ahorcado, de forma que efectivamente sea ahorcado si no es salvado por la pericia linguistica del jugador.
