@@ -9,8 +9,7 @@ Comportamiento:
 
 - Al iniciar el codigo se lanzará una interfaz indicando al jugador que debe adivinar la palabra. 
 - Los guiones representan las letras que se deben adivinar.
-- El juego pide al usuario ingresar una letra de forma que a cada intento.
-- Si el jugador adivina una letra que puede o no estar repetida, los guiones correspondientes a esas letras seran reemplazados por estas.
+- El juego pide al usuario ingresar una letra de forma que a cada intento, si el jugador adivina una letra que puede o no estar repetida, los guiones correspondientes a esas     letras seran reemplazados por estas.
 - Si el jugador no adivina la letra, el codigo pedira una nueva.
 
 Reglas:
