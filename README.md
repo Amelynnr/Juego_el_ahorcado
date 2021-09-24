@@ -27,4 +27,4 @@ Las mejoras del juego son propuestas para optimizar la versión del juego del cu
 
 Metas personales:
 
--Añadir vidas/intentos al ahorcado, de forma que efectivamente sea ahorcado si no es salvado por la pericia linguistica del jugador.
+- Añadir vidas/intentos al ahorcado, de forma que efectivamente sea ahorcado si no es salvado por la pericia linguistica del jugador.
