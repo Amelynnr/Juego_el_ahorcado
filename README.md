@@ -31,3 +31,4 @@ Las metas personales son tareas que me propuse efectuar con motivos de practicar
 - Uso de Git y Github.
 - Uso de claves SSH.
 - Añadir vidas/intentos al ahorcado, de forma que efectivamente sea ahorcado si no es salvado por la pericia linguistica del jugador.
+- Usar UML.
